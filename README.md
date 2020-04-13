@@ -1,6 +1,7 @@
 # OCR Form Labeling Tool
 
 2020-04-13 OO:Added this line locally from VScode
+2020-04-13 OO:Added this line remotely from github.com
 
 [![Build Status](https://dev.azure.com/msazure/Cognitive%20Services/_apis/build/status/microsoft.OCR-Form-Tools?branchName=master)](https://dev.azure.com/msazure/Cognitive%20Services/_build/latest?definitionId=118293&branchName=master)
 
